@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projeto Final V0.0.1</string>
+    <string name="txt_title">Cadastro de Pessoas Fisica</string>
+    <string name="txt_footer">Dev. Valdir de Camargo Copyrit 2017</string>
+    <string name="btn_cad">Cadastrar Novo</string>
+    <string name="btn_listar">Listar Todos</string>
+    <string name="title_activity_act_form_cad">ActFormCad</string>
+    <string name="txt_name">Nome</string>
+    <string name="txt_cpf">Cpf</string>
+    <string name="txt_idade">Idade</string>
+    <string name="txt_telefone">Telefone</string>
+    <string name="txt_email">E-mail</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="txt_title_cad">Novo Cadastro</string>
+    <string name="ct_desc">Voltar</string>
+    <string name="Aviso">Todos os campos são obrigatorios</string>
+    <string name="ok">OK</string>
+    <string name="okk">OK</string>
+    <string name="Aviso_msg">Um ou alguns campos são invalidos ou  estão vazios</string>
+    <string name="aviso_btn_ok">Ok</string>
+</resources>
